@@ -22,3 +22,7 @@ body {
 div.card {
     background: #21315d;
 }
+
+div.panel-body{
+    margin: 10%;
+}
